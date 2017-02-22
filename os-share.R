@@ -39,7 +39,7 @@ os$variable<-factor(os$variable, levels =
 
 # Final plot of all data
 ggplot(os,aes(date,value))+
-  geom_area(position="fill",aes(fill=variable),color="black")+
+  geom_area(position="fill",aes(fill=variable),color="black",alpha=.75)+
   scale_fill_manual("Operating\nSystem",values=c(
         # Windows PCs
         rev(brewer.pal(8,"Blues")),
