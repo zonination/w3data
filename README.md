@@ -16,6 +16,10 @@ Since the data included browser information as well, I decided to plot browser m
 
 ## Gallery
 
+![OS Share](https://raw.githubusercontent.com/zonination/w3data/master/OS%20Share.png)
+
+![Browser Share](https://raw.githubusercontent.com/zonination/w3data/master/Browser%20Share.png)
+
 ## Sources:
 
 * https://www.w3schools.com/browsers/browsers_os.asp
