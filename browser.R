@@ -42,7 +42,7 @@ ggplot(browser,aes(date,value))+
     labels=c("Internet Explorer", "AOL", "Netscape", "Mozilla",
                "Firefox", "Opera","Safari","Chrome"))+
   scale_y_continuous(labels=scales::percent)+
-  labs(title="Operating System Market Share",
+  labs(title="Browser Market Share",
        subtitle="As reported by w3schools.com",
        x="",
        y="Market Share")+
